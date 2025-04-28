@@ -1,0 +1,662 @@
+[
+    {
+        "doctor_name": "Dr. Sheelavathi Natraj",
+        "specialization": "Dermatologist",
+        "experience": "21 years experience overall",
+        "locality": "Koramangala 6 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Sapphire Skin and Aesthetics Clinic",
+        "fee": "₹750",
+        "feedback": "1482 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Jnanesha H.C",
+        "specialization": "Dentist",
+        "experience": "23 years experience overall",
+        "locality": "Jayanagar 4 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Excel Dental Care",
+        "fee": "₹300",
+        "feedback": "475 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Venkatesh M J",
+        "specialization": "Dentist",
+        "experience": "30 years experience overall",
+        "locality": "Indiranagar,",
+        "city": "Bangalore",
+        "clinic_name": "All Care Dental Centre - since 1969",
+        "fee": "₹300",
+        "feedback": "50 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Parthasarathi Dutta Roy",
+        "specialization": "Dermatologist",
+        "experience": "22 years experience overall",
+        "locality": "Magrath Road,",
+        "city": "Bangalore",
+        "clinic_name": "Dr. Partha Sarathi's Asian Hair And Skin Hospitals",
+        "fee": "₹800",
+        "feedback": "4940 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Abhilash Ravindranath",
+        "specialization": "Dentist",
+        "experience": "22 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Smiles N More Invisalign and Dental Implant Centre",
+        "fee": "₹400",
+        "feedback": "2406 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. K.A. Mohan",
+        "specialization": "Dentist",
+        "experience": "56 years experience overall",
+        "locality": "Domlur,",
+        "city": "Bangalore",
+        "clinic_name": "Dental De Care",
+        "fee": "₹500",
+        "feedback": "59 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Harish Prasad B.R",
+        "specialization": "Hair Transplant Surgeon",
+        "experience": "18 years experience overall",
+        "locality": "BTM Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Vitals Skin and Hair Klinic",
+        "fee": "₹1000",
+        "feedback": "801 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Baswaraj Biradar",
+        "specialization": "Dentist",
+        "experience": "28 years experience overall",
+        "locality": "Sahakaranagar,",
+        "city": "Bangalore",
+        "clinic_name": "Impressions Dental Specialities",
+        "fee": "₹400",
+        "feedback": "2190 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Raju Srinivas",
+        "specialization": "Dentist",
+        "experience": "29 years experience overall",
+        "locality": "Jayanagar,",
+        "city": "Bangalore",
+        "clinic_name": "Dental Health Care Clinic",
+        "fee": "₹400",
+        "feedback": "207 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sunil Rao",
+        "specialization": "Dentist",
+        "experience": "29 years experience overall",
+        "locality": "Vijayanagar,",
+        "city": "Bangalore",
+        "clinic_name": "Smile Dental Care",
+        "fee": "₹500",
+        "feedback": "400 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shyam Padmanabhan",
+        "specialization": "Dentist",
+        "experience": "29 years experience overall",
+        "locality": "New Thippasandra,",
+        "city": "Bangalore",
+        "clinic_name": "Vignesh Dental Speciality Centre",
+        "fee": "₹500",
+        "feedback": "702 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Aarti Talikoti",
+        "specialization": "Dentist",
+        "experience": "22 years experience overall",
+        "locality": "Jayanagar 9 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Infinit Dental Solutions",
+        "fee": "₹400",
+        "feedback": "214 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vivekananda Reddy",
+        "specialization": "Dentist",
+        "experience": "24 years experience overall",
+        "locality": "Hoodi,",
+        "city": "Bangalore",
+        "clinic_name": "Smile Craft Dental and Implant Centre",
+        "fee": "₹500",
+        "feedback": "470 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sanjay Kaul",
+        "specialization": "Dentist",
+        "experience": "29 years experience overall",
+        "locality": "Koramangala,",
+        "city": "Bangalore",
+        "clinic_name": "V-Care Dental Speciality Clinic",
+        "fee": "₹500",
+        "feedback": "538 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Raghavendra",
+        "specialization": "Dentist",
+        "experience": "15 years experience overall",
+        "locality": "Kundalahalli,",
+        "city": "Bangalore",
+        "clinic_name": "Gajanana Smile Care Dental Clinic",
+        "fee": "₹400",
+        "feedback": "2051 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sharada P Gowda",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Indiranagar,",
+        "city": "Bangalore",
+        "clinic_name": "American Dental Practices",
+        "fee": "₹500",
+        "feedback": "209 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Deepthi B C",
+        "specialization": "Dentist",
+        "experience": "17 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Wisden Clinics",
+        "fee": "₹300",
+        "feedback": "157 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Bhavin Shah",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Indiranagar,",
+        "city": "Bangalore",
+        "clinic_name": "American Dental Practices",
+        "fee": "₹500",
+        "feedback": "393 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Savitha A S",
+        "specialization": "Dermatologist",
+        "experience": "19 years experience overall",
+        "locality": "Indiranagar,",
+        "city": "Bangalore",
+        "clinic_name": "Calyx Skin Lab",
+        "fee": "₹1000",
+        "feedback": "75 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Archana S",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Dental Trendz",
+        "fee": "₹400",
+        "feedback": "251 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. D N Naveen",
+        "specialization": "Dentist",
+        "experience": "31 years experience overall",
+        "locality": "New Thippasandra,",
+        "city": "Bangalore",
+        "clinic_name": "Vignesh Dental Speciality Centre",
+        "fee": "₹500",
+        "feedback": "88 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prafulla Biradar",
+        "specialization": "Dentist",
+        "experience": "24 years experience overall",
+        "locality": "Sahakaranagar,",
+        "city": "Bangalore",
+        "clinic_name": "Impressions Dental Specialities",
+        "fee": "₹400",
+        "feedback": "437 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Minty Sharma",
+        "specialization": "Dentist",
+        "experience": "19 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Smiles Dental Studio",
+        "fee": "₹350",
+        "feedback": "997 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ramya",
+        "specialization": "Dentist",
+        "experience": "22 years experience overall",
+        "locality": "Kundalahalli,",
+        "city": "Bangalore",
+        "clinic_name": "Ivory Dental",
+        "fee": "₹400",
+        "feedback": "72 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sindhu S Kumar",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Jayanagar 4 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Excel Dental Care",
+        "fee": "₹300",
+        "feedback": "196 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rupali Borkar",
+        "specialization": "Dentist",
+        "experience": "26 years experience overall",
+        "locality": "Koramangala,",
+        "city": "Bangalore",
+        "clinic_name": "V-Care Dental Speciality Clinic",
+        "fee": "₹500",
+        "feedback": "13 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Jonathan Eric Rao",
+        "specialization": "Dentist",
+        "experience": "17 years experience overall",
+        "locality": "Horamavu,",
+        "city": "Bangalore",
+        "clinic_name": "Urban Dental Clinic",
+        "fee": "₹500",
+        "feedback": "234 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. A. Praveen Kumar Reddy",
+        "specialization": "Dentist",
+        "experience": "18 years experience overall",
+        "locality": "Whitefield,",
+        "city": "Bangalore",
+        "clinic_name": "Smaya's Dento Care",
+        "fee": "₹500",
+        "feedback": "70 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. M J Murali",
+        "specialization": "Dentist",
+        "experience": "28 years experience overall",
+        "locality": "Indiranagar,",
+        "city": "Bangalore",
+        "clinic_name": "All Care Dental Centre - since 1969",
+        "fee": "₹300",
+        "feedback": "212 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Allu Venkateswara Reddy",
+        "specialization": "Dentist",
+        "experience": "27 years experience overall",
+        "locality": "Koramangala,",
+        "city": "Bangalore",
+        "clinic_name": "The Dental Venue",
+        "fee": "₹500",
+        "feedback": "19 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Dinesh Gowda",
+        "specialization": "Dermatologist",
+        "experience": "38 years experience overall",
+        "locality": "Sahakaranagar,",
+        "city": "Bangalore",
+        "clinic_name": "EastArise Aesthetics Clinic LLP",
+        "fee": "₹700",
+        "feedback": "10 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vahini Nayar",
+        "specialization": "Dentist",
+        "experience": "27 years experience overall",
+        "locality": "Koramangala,",
+        "city": "Bangalore",
+        "clinic_name": "The Dental Venue",
+        "fee": "₹500",
+        "feedback": "12 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Swarnalatha Bejjam",
+        "specialization": "Dentist",
+        "experience": "18 years experience overall",
+        "locality": "Whitefield,",
+        "city": "Bangalore",
+        "clinic_name": "Smaya's Dento Care",
+        "fee": "₹500",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sumanth Shetty",
+        "specialization": "Dentist",
+        "experience": "26 years experience overall",
+        "locality": "Koramangala,",
+        "city": "Bangalore",
+        "clinic_name": "Chisel Dental",
+        "fee": "₹300",
+        "feedback": "4632 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shashidhar T",
+        "specialization": "Dermatologist",
+        "experience": "18 years experience overall",
+        "locality": "Jayanagar 4 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Dermacare Skin & Hair Clinic",
+        "fee": "₹800",
+        "feedback": "5521 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prashanth G.S",
+        "specialization": "Dentist",
+        "experience": "26 years experience overall",
+        "locality": "Kundalahalli,",
+        "city": "Bangalore",
+        "clinic_name": "Ivory Dental",
+        "fee": "₹500",
+        "feedback": "122 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rashmi Shetty",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Koramangala,",
+        "city": "Bangalore",
+        "clinic_name": "Chisel Dental",
+        "fee": "₹350",
+        "feedback": "4400 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shambhu H Shivanna",
+        "specialization": "Dentist",
+        "experience": "26 years experience overall",
+        "locality": "Kundalahalli,",
+        "city": "Bangalore",
+        "clinic_name": "Ivory Dental",
+        "fee": "₹400",
+        "feedback": "618 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Chiranjeevi Reddy",
+        "specialization": "Dentist",
+        "experience": "25 years experience overall",
+        "locality": "Kundalahalli,",
+        "city": "Bangalore",
+        "clinic_name": "Ivory Dental",
+        "fee": "₹400",
+        "feedback": "319 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Pramod",
+        "specialization": "Dentist",
+        "experience": "21 years experience overall",
+        "locality": "Koramangala,",
+        "city": "Bangalore",
+        "clinic_name": "Dental de Care",
+        "fee": "₹500",
+        "feedback": "740 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Aditi Garg",
+        "specialization": "Dentist",
+        "experience": "18 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Elite Esthetics and Dental Clinic",
+        "fee": "₹400",
+        "feedback": "144 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shruthi C",
+        "specialization": "Dermatologist",
+        "experience": "16 years experience overall",
+        "locality": "Jayanagar 4 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Skin & Recon Dermatology And Plastic Surgery Clinic",
+        "fee": "₹700",
+        "feedback": "83 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Eswari.L",
+        "specialization": "Dermatologist",
+        "experience": "24 years experience overall",
+        "locality": "Jayanagar 4 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Skin Xperts Super Speciality Skin Hair and Laser Clinics",
+        "fee": "₹600",
+        "feedback": "28 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Preetha Peethambar",
+        "specialization": "Dentist",
+        "experience": "23 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Smiles N More Invisalign and Dental Implant Centre",
+        "fee": "₹400",
+        "feedback": "139 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Neha Gupta",
+        "specialization": "Dermatologist",
+        "experience": "24 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "DYU Aesthetics",
+        "fee": "₹1000",
+        "feedback": "50 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ravishankar Reddy C R",
+        "specialization": "General Physician",
+        "experience": "32 years experience overall",
+        "locality": "Koramangala 1 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Marvel Multispeciality Hospital",
+        "fee": "₹1000",
+        "feedback": "970 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prabha Ramadorai",
+        "specialization": "Internal Medicine",
+        "experience": "27 years experience overall",
+        "locality": "Begur,",
+        "city": "Bangalore",
+        "clinic_name": "Jayashree Multispeciality Hospital",
+        "fee": "₹500",
+        "feedback": "145 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Harish K V",
+        "specialization": "General Physician",
+        "experience": "29 years experience overall",
+        "locality": "Richmond Town,",
+        "city": "Bangalore",
+        "clinic_name": "Vikram Aura Hospital",
+        "fee": "₹1000",
+        "feedback": "58 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Suresh C H",
+        "specialization": "Internal Medicine",
+        "experience": "15 years experience overall",
+        "locality": "Hulimavu,",
+        "city": "Bangalore",
+        "clinic_name": "Nano Hospitals",
+        "fee": "₹500",
+        "feedback": "21 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Deevish N D",
+        "specialization": "Plastic Surgeon",
+        "experience": "16 years experience overall",
+        "locality": "Richmond Town,",
+        "city": "Bangalore",
+        "clinic_name": "Vikram Aura Hospital",
+        "fee": "₹1000",
+        "feedback": "7 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anitha M Dias",
+        "specialization": "Internal Medicine",
+        "experience": "33 years experience overall",
+        "locality": "Richmond Town,",
+        "city": "Bangalore",
+        "clinic_name": "Vikram Aura Hospital",
+        "fee": "₹1000",
+        "feedback": "6 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rajashekara Reddy HV",
+        "specialization": "General Physician",
+        "experience": "31 years experience overall",
+        "locality": "Sampangiramnagar,",
+        "city": "Bangalore",
+        "clinic_name": "Trustwell Hospitals",
+        "fee": "₹1000",
+        "feedback": "9 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. GANGI REDDY T K",
+        "specialization": "Pulmonologist",
+        "experience": "16 years experience overall",
+        "locality": "Sampangiramnagar,",
+        "city": "Bangalore",
+        "clinic_name": "Trustwell Hospitals",
+        "fee": "₹800",
+        "feedback": "129 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. M Sri Sai Prasad",
+        "specialization": "General Physician",
+        "experience": "29 years experience overall",
+        "locality": "Belathur,",
+        "city": "Bangalore",
+        "clinic_name": "Aaxis Hospitals",
+        "fee": "₹500",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rajasekhar",
+        "specialization": "General Surgeon",
+        "experience": "45 years experience overall",
+        "locality": "JP Nagar 2 Phase,",
+        "city": "Bangalore",
+        "clinic_name": "Chirag Global Hospitals",
+        "fee": "₹1800",
+        "feedback": "721 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. M. Gowri",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "35 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Ovum Woman and Child Speciality Hospital",
+        "fee": "₹850",
+        "feedback": "1747 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manas Ranjan Tripathy",
+        "specialization": "Laparoscopic Surgeon",
+        "experience": "20 years experience overall",
+        "locality": "Koramangala 5 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹700",
+        "feedback": "230 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Eash Hoskote",
+        "specialization": "Pediatrician",
+        "experience": "28 years experience overall",
+        "locality": "Banashankari,",
+        "city": "Bangalore",
+        "clinic_name": "Ovum Woman & Child Speciality Hospital",
+        "fee": "₹750",
+        "feedback": "487 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Nanda Rajaneesh",
+        "specialization": "Laparoscopic Surgeon",
+        "experience": "30 years experience overall",
+        "locality": "Koramangala 5 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹800",
+        "feedback": "255 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mohan M.R",
+        "specialization": "Orthopedist",
+        "experience": "23 years experience overall",
+        "locality": "Hulimavu,",
+        "city": "Bangalore",
+        "clinic_name": "Nano Hospitals",
+        "fee": "₹500",
+        "feedback": "186 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Akshay Jadhav",
+        "specialization": "Pediatrician",
+        "experience": "15 years experience overall",
+        "locality": "HBR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Altius Hospitals",
+        "fee": "₹800",
+        "feedback": "23 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sanjay Kumar",
+        "specialization": "Ear-Nose-Throat (ENT) Specialist",
+        "experience": "30 years experience overall",
+        "locality": "Koramangala 5 Block,",
+        "city": "Bangalore",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹600",
+        "feedback": "214 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Venkateshwara Rao K",
+        "specialization": "Urologist",
+        "experience": "23 years experience overall",
+        "locality": "Ashoknagar,",
+        "city": "Bangalore",
+        "clinic_name": "Vydehi Super Speciality Hospital(Mallya Hospital)",
+        "fee": "₹800",
+        "feedback": "195 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Srigiri S Revadi",
+        "specialization": "Pulmonologist",
+        "experience": "50 years experience overall",
+        "locality": "Basavanagudi,",
+        "city": "Bangalore",
+        "clinic_name": "The Bangalore Hospital",
+        "fee": "₹800",
+        "feedback": "277 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Avinash Alva",
+        "specialization": "Orthopedist",
+        "experience": "23 years experience overall",
+        "locality": "Basavanagudi,",
+        "city": "Bangalore",
+        "clinic_name": "The Bangalore Hospital",
+        "fee": "₹800",
+        "feedback": "15 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Aparnaa Panda",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "27 years experience overall",
+        "locality": "HSR Layout,",
+        "city": "Bangalore",
+        "clinic_name": "Ovum Woman and Child Speciality Hospital",
+        "fee": "₹850",
+        "feedback": "1361 Patient Stories"
+    }
+]

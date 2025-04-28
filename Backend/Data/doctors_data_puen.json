@@ -1,0 +1,1462 @@
+[
+    {
+        "doctor_name": "Dr. Shailaja Desai",
+        "specialization": "Cosmetologist",
+        "experience": "16 years experience overall",
+        "locality": "Sopan Baug,",
+        "city": "Pune",
+        "clinic_name": "Dr. Desai Dermacare- Skin, Hair & Laser Clinic",
+        "fee": "₹700",
+        "feedback": "10 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. L K Desai",
+        "specialization": "Dermatologist",
+        "experience": "30 years experience overall",
+        "locality": "Sopan Baug,",
+        "city": "Pune",
+        "clinic_name": "Dr. Desai Dermacare- Skin, Hair & Laser Clinic",
+        "fee": "₹700",
+        "feedback": "339 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Amol Thorat Dinkar",
+        "specialization": "Dentist",
+        "experience": "25 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Dr. Ratnika's - Smile Up Dental Clinic & Implant Center",
+        "fee": "₹300",
+        "feedback": "20 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sandeep Bhirud",
+        "specialization": "Dentist",
+        "experience": "36 years experience overall",
+        "locality": "Pimpri-Chinchwad,",
+        "city": "Pune",
+        "clinic_name": "Dr. Bhirud's Sweet Smile Dental Clinic",
+        "fee": "₹500",
+        "feedback": "923 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Jyoti Bhirud",
+        "specialization": "Dentist",
+        "experience": "30 years experience overall",
+        "locality": "Pimpri-Chinchwad,",
+        "city": "Pune",
+        "clinic_name": "Dr. Bhirud's Sweet Smile Dental Clinic",
+        "fee": "₹500",
+        "feedback": "343 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ganesh",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Aundh,",
+        "city": "Pune",
+        "clinic_name": "Dental Tree",
+        "fee": "₹200",
+        "feedback": "374 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ankush R. Agrawal",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Wakad,",
+        "city": "Pune",
+        "clinic_name": "Dentsee Dental Clinic, Laser and Implant Centre",
+        "fee": "₹400",
+        "feedback": "212 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Priyanka Agrawal",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Kalyani Nagar,",
+        "city": "Pune",
+        "clinic_name": "Dr. Thareja's 32 Perfect Dental Care",
+        "fee": "₹410",
+        "feedback": "318 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Samidhaa Patil",
+        "specialization": "Dentist",
+        "experience": "18 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "The Team Dental",
+        "fee": "₹300",
+        "feedback": "30 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Dragpal Singh Rajput",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Darshil Dental Care",
+        "fee": "₹300",
+        "feedback": "394 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Dragpal Singh Rajput",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Darshil Dental Care",
+        "fee": "₹300",
+        "feedback": "394 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Abhinav Misuriya",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Saroj Dental Care Centre",
+        "fee": "₹400",
+        "feedback": "244 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Syed Shibli Quazi",
+        "specialization": "Dentist",
+        "experience": "15 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Dr. Ratnika's - Smile Up Dental Clinic & Implant Center",
+        "fee": "₹300",
+        "feedback": "1069 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shubhra Misuriya",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Saroj Dental Care Centre",
+        "fee": "₹400",
+        "feedback": "348 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rashmi Singh Chauhan",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Baner Road,",
+        "city": "Pune",
+        "clinic_name": "Chauhan's Dental Care",
+        "fee": "₹700",
+        "feedback": "119 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vivek Singh Chauhan",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Baner Road,",
+        "city": "Pune",
+        "clinic_name": "Chauhan's Dental Care",
+        "fee": "₹700",
+        "feedback": "629 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Hemant Patil",
+        "specialization": "Dentist",
+        "experience": "18 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Laconic Dental Studio",
+        "fee": "₹500",
+        "feedback": "1285 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sachin Phadke",
+        "specialization": "Dentist",
+        "experience": "26 years experience overall",
+        "locality": "Paud Road,",
+        "city": "Pune",
+        "clinic_name": "Phadke's Dental Clinic",
+        "fee": "₹300",
+        "feedback": "377 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Gautami Phadke",
+        "specialization": "Dentist",
+        "experience": "27 years experience overall",
+        "locality": "Karve Nagar,",
+        "city": "Pune",
+        "clinic_name": "Dr. Phadke's Dental Clinic & Implant Centre",
+        "fee": "₹300",
+        "feedback": "239 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anupriya Pathak",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "The Team Dental",
+        "fee": "₹300",
+        "feedback": "23 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Neha A Agrawal",
+        "specialization": "Dentist",
+        "experience": "19 years experience overall",
+        "locality": "Wakad,",
+        "city": "Pune",
+        "clinic_name": "Dentsee Dental Clinic, Laser and Implant Centre",
+        "fee": "₹400",
+        "feedback": "117 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Amit Thareja",
+        "specialization": "Dentist",
+        "experience": "21 years experience overall",
+        "locality": "Kalyani Nagar,",
+        "city": "Pune",
+        "clinic_name": "Dr. Thareja's 32 Perfect Dental Care",
+        "fee": "₹410",
+        "feedback": "268 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Chandrakiran Rajput",
+        "specialization": "Dentist",
+        "experience": "18 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Darshil Dental Care",
+        "fee": "₹300",
+        "feedback": "49 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mandar Ketkar",
+        "specialization": "Dentist",
+        "experience": "28 years experience overall",
+        "locality": "Koregaon Park,",
+        "city": "Pune",
+        "clinic_name": "Dr. Ketkar Dental Clinic",
+        "fee": "₹500",
+        "feedback": "489 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Suruchi Mandrekar",
+        "specialization": "Internal Medicine",
+        "experience": "29 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "100 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Reshu Agrawal",
+        "specialization": "Internal Medicine",
+        "experience": "18 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "73 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ujwala Patil",
+        "specialization": "General Physician",
+        "experience": "25 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "323 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rameshwar Hudekar",
+        "specialization": "General Physician",
+        "experience": "19 years experience overall",
+        "locality": "Wakad,",
+        "city": "Pune",
+        "clinic_name": "Sunmed Hospital",
+        "fee": "₹700",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Tarun K. Jeloka",
+        "specialization": "Nephrologist",
+        "experience": "29 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "1077 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anand Palimkar",
+        "specialization": "Ophthalmologist",
+        "experience": "28 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Dr Agarwals Eye Hospital",
+        "fee": "₹600",
+        "feedback": "658 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anil Chittake",
+        "specialization": "Infertility Specialist",
+        "experience": "28 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Embrio Ivf Centre",
+        "fee": "₹1000",
+        "feedback": "1445 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shrirang Kulkarni",
+        "specialization": "Orthopedist",
+        "experience": "24 years experience overall",
+        "locality": "Bhosari,",
+        "city": "Pune",
+        "clinic_name": "Medicover Hospital",
+        "fee": "₹500",
+        "feedback": "18 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Lande Onkar Marotirao",
+        "specialization": "Orthopedist",
+        "experience": "25 years experience overall",
+        "locality": "Shivajinagar,",
+        "city": "Pune",
+        "clinic_name": "Deccan Hardikar Hospital",
+        "fee": "₹400",
+        "feedback": "13 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Nitin Prabhudesai",
+        "specialization": "Ophthalmologist",
+        "experience": "41 years experience overall",
+        "locality": "Kothrud,",
+        "city": "Pune",
+        "clinic_name": "Dr. Agarwal's Eye Hospital",
+        "fee": "₹1200",
+        "feedback": "577 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Abhijeet Joshi",
+        "specialization": "Cardiologist",
+        "experience": "35 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "581 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ashok Desai",
+        "specialization": "Orthopedist",
+        "experience": "52 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1000",
+        "feedback": "10 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Neela Desai",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "52 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1000",
+        "feedback": "14 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Neela Desai",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "52 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1000",
+        "feedback": "14 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kishore Pandit",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "28 years experience overall",
+        "locality": "Shivajinagar,",
+        "city": "Pune",
+        "clinic_name": "Gynaeworld Hospital",
+        "fee": "₹1400",
+        "feedback": "344 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sabrina Bokil",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "34 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "44 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Nikhil V. Rishikeshi",
+        "specialization": "Ophthalmologist",
+        "experience": "27 years experience overall",
+        "locality": "Kothrud,",
+        "city": "Pune",
+        "clinic_name": "Dr. Agarwal's Eye Hospital",
+        "fee": "₹1000",
+        "feedback": "96 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Nilesh Unmesh Balkawade",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "17 years experience overall",
+        "locality": "Wakad,",
+        "city": "Pune",
+        "clinic_name": "Oasis Fertility",
+        "fee": "Free Consultation",
+        "feedback": "39 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vimal Parmar",
+        "specialization": "Ophthalmologist",
+        "experience": "22 years experience overall",
+        "locality": "Camp,",
+        "city": "Pune",
+        "clinic_name": "Mahaveer Super Speciality Eye Hospital and Laser Centre",
+        "fee": "₹600",
+        "feedback": "677 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Baban C Dolas",
+        "specialization": "Ophthalmologist",
+        "experience": "28 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Dr Agarwals Eye Hospital",
+        "fee": "₹500",
+        "feedback": "18 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kavita Varma",
+        "specialization": "General Surgeon",
+        "experience": "28 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "5 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Pravin Waghmare",
+        "specialization": "Orthopedist",
+        "experience": "19 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Jeevan Jyoti Superspeciality Hospital",
+        "fee": "₹1200",
+        "feedback": "51 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ashish Kumar Shrivastav",
+        "specialization": "Laparoscopic Surgeon",
+        "experience": "25 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹600",
+        "feedback": "13 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vidya Gaikwad",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "32 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹500",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Kirti Joglekar",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "43 years experience overall",
+        "locality": "Shivajinagar,",
+        "city": "Pune",
+        "clinic_name": "Gynaeworld Hospital",
+        "fee": "₹2000",
+        "feedback": "25 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ramesh Sonba Dumbre",
+        "specialization": "General Surgeon",
+        "experience": "53 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1200",
+        "feedback": "10 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Bhushan Mishal",
+        "specialization": "Neurologist",
+        "experience": "21 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Jeevan Jyoti Superspeciality Hospital",
+        "fee": "₹1500",
+        "feedback": "14 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Snehal Wakchaure",
+        "specialization": "Ophthalmologist",
+        "experience": "18 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Dr Agarwals Eye Hospital",
+        "fee": "₹500",
+        "feedback": "39 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ujjwala Keskar",
+        "specialization": "Pediatrician",
+        "experience": "29 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "97 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kapil Kanade",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "22 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Sunshine Hospital",
+        "fee": "₹700",
+        "feedback": "28 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kundan Kharde",
+        "specialization": "General Surgeon",
+        "experience": "18 years experience overall",
+        "locality": "Pimple Nilakh,",
+        "city": "Pune",
+        "clinic_name": "Sharvari Hospital",
+        "fee": "₹800",
+        "feedback": "72 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prashant Kedari",
+        "specialization": "General Surgeon",
+        "experience": "26 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Jeevan Jyoti Superspeciality Hospital",
+        "fee": "₹1200",
+        "feedback": "4 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ramit Kamate",
+        "specialization": "Infertility Specialist",
+        "experience": "18 years experience overall",
+        "locality": "Balewadi,",
+        "city": "Pune",
+        "clinic_name": "Nakshatra Fertility, Intimacy Cosmetic Clinic",
+        "fee": "₹900",
+        "feedback": "45 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shivaji Narawade",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "27 years experience overall",
+        "locality": "Chandan Nagar,",
+        "city": "Pune",
+        "clinic_name": "Medipoint Hospital",
+        "fee": "₹500",
+        "feedback": "4 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ammbalal Gurram",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "25 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "4 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Pankaj Asawa",
+        "specialization": "Ophthalmologist",
+        "experience": "33 years experience overall",
+        "locality": "Aundh,",
+        "city": "Pune",
+        "clinic_name": "Dr. Agarwal's Eye Hospital",
+        "fee": "₹600",
+        "feedback": "23 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sonam Shinde",
+        "specialization": "Cardiologist",
+        "experience": "17 years experience overall",
+        "locality": "Bhosari,",
+        "city": "Pune",
+        "clinic_name": "Medicover Hospital",
+        "fee": "₹1000",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prasad Bhate",
+        "specialization": "Gastroenterologist",
+        "experience": "20 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "65 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Paritosha Thakar",
+        "specialization": "Pediatric Surgeon",
+        "experience": "22 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Rahul Wagh",
+        "specialization": "Oncologist",
+        "experience": "16 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Rajendra Pol",
+        "specialization": "Hematologist",
+        "experience": "26 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "7 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Aashish Arbat",
+        "specialization": "Orthopedist",
+        "experience": "27 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mubashshir Khan",
+        "specialization": "Pediatrician",
+        "experience": "17 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Tushar Agarwal",
+        "specialization": "Orthopedist",
+        "experience": "21 years experience overall",
+        "locality": "Moshi,",
+        "city": "Pune",
+        "clinic_name": "Bliss Hospital",
+        "fee": "₹700",
+        "feedback": "10 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Girija Ghate",
+        "specialization": "Ear-Nose-Throat (ENT) Specialist",
+        "experience": "25 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "7 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vinayak Ghanate",
+        "specialization": "Orthopedist",
+        "experience": "18 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹700",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Amit Dhakoji",
+        "specialization": "Neurosurgeon",
+        "experience": "22 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sudhir Baburdikar",
+        "specialization": "Ophthalmologist",
+        "experience": "26 years experience overall",
+        "locality": "Aundh,",
+        "city": "Pune",
+        "clinic_name": "Dr. Agarwal's Eye Hospital",
+        "fee": "₹600",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Amol S Dahale",
+        "specialization": "Gastroenterologist",
+        "experience": "16 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Ranade Shrirang Dilip",
+        "specialization": "Cardiac Surgeon",
+        "experience": "16 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospitals",
+        "fee": "₹1000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Prashant Sadashiv Shinde",
+        "specialization": "Cardiologist",
+        "experience": "19 years experience overall",
+        "locality": "Bhosari,",
+        "city": "Pune",
+        "clinic_name": "Medicover Hospital",
+        "fee": "₹1000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Shweta Pandya",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "15 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Jeevan Jyoti Superspeciality Hospital",
+        "fee": "₹1000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Sonal Ashok Erole",
+        "specialization": "Ophthalmologist",
+        "experience": "17 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Dr Agarwals Eye Hospital",
+        "fee": "₹500",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Asha Gavade",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "20 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Umang Hospital",
+        "fee": "₹600",
+        "feedback": "1715 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mithil Patil",
+        "specialization": "Infertility Specialist",
+        "experience": "23 years experience overall",
+        "locality": "Balewadi,",
+        "city": "Pune",
+        "clinic_name": "Ashwini Hospital & Fertility Clinics",
+        "fee": "₹600",
+        "feedback": "100 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Girija Wagh",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "33 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹800",
+        "feedback": "142 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Nachiket Kulkarni",
+        "specialization": "Internal Medicine",
+        "experience": "19 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1000",
+        "feedback": "15 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anand Kavi",
+        "specialization": "Orthopedist",
+        "experience": "26 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹500",
+        "feedback": "7 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Satish Kale",
+        "specialization": "Orthopedist",
+        "experience": "17 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1000",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Govind Kulkarni",
+        "specialization": "General Physician",
+        "experience": "31 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Pulse Diabetes, Obesity & Cardiac Relief Centre",
+        "fee": "₹800",
+        "feedback": "32 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Milind Kulkarni",
+        "specialization": "General Physician",
+        "experience": "20 years experience overall",
+        "locality": "Vishrantwadi,",
+        "city": "Pune",
+        "clinic_name": "Kulkarni Clinic",
+        "fee": "₹600",
+        "feedback": "236 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. (Colonel) A.K Mehta",
+        "specialization": "Sports Medicine Specialist",
+        "experience": "43 years experience overall",
+        "locality": "Magarpatta City,",
+        "city": "Pune",
+        "clinic_name": "Dr. Mehta's Healthcare",
+        "fee": "₹600",
+        "feedback": "324 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mushfiya Bahrainwala",
+        "specialization": "General Physician",
+        "experience": "20 years experience overall",
+        "locality": "Wanowrie,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹550",
+        "feedback": "29 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Pramod B. Umarji",
+        "specialization": "General Physician",
+        "experience": "48 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Umarji Mother & Child Care",
+        "fee": "₹600",
+        "feedback": "46 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mukesh Budhwani",
+        "specialization": "General Physician",
+        "experience": "23 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹750",
+        "feedback": "116 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Amit Sakaria",
+        "specialization": "General Physician",
+        "experience": "21 years experience overall",
+        "locality": "Kalyani Nagar,",
+        "city": "Pune",
+        "clinic_name": "Prudent International Health Clinic",
+        "fee": "₹700",
+        "feedback": "591 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vinod Midha",
+        "specialization": "General Physician",
+        "experience": "41 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Dr Midha's National Clinic",
+        "fee": "₹550",
+        "feedback": "176 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shilpa Dane",
+        "specialization": "Family Physician",
+        "experience": "20 years experience overall",
+        "locality": "Pimpri-Chinchwad,",
+        "city": "Pune",
+        "clinic_name": "Dev Clinic",
+        "fee": "₹600",
+        "feedback": "157 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Lt Col Shashi Bhushan",
+        "specialization": "General Physician",
+        "experience": "22 years experience overall",
+        "locality": "Wakad,",
+        "city": "Pune",
+        "clinic_name": "Livwell Clinic",
+        "fee": "₹650",
+        "feedback": "83 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Narayan Survase",
+        "specialization": "General Physician",
+        "experience": "28 years experience overall",
+        "locality": "Wakad,",
+        "city": "Pune",
+        "clinic_name": "NRS Hospital",
+        "fee": "₹600",
+        "feedback": "195 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ravindra Chhajed",
+        "specialization": "General Physician",
+        "experience": "30 years experience overall",
+        "locality": "Market Yard,",
+        "city": "Pune",
+        "clinic_name": "Harsh Hospital",
+        "fee": "₹700",
+        "feedback": "457 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prathamesh Teje",
+        "specialization": "Internal Medicine",
+        "experience": "6 years experience overall",
+        "locality": "Pimpri-Chinchwad,",
+        "city": "Pune",
+        "clinic_name": "Aditya Birla Memorial Hospital",
+        "fee": "₹750",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Sushil K Punshi",
+        "specialization": "General Physician",
+        "experience": "37 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Rukmani Clinic",
+        "fee": "₹400",
+        "feedback": "57 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Abhijeet Baldota",
+        "specialization": "General Physician",
+        "experience": "15 years experience overall",
+        "locality": "Aundh,",
+        "city": "Pune",
+        "clinic_name": "Alloveda Clinic",
+        "fee": "₹800",
+        "feedback": "357 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mahavir Bagrecha",
+        "specialization": "Pulmonologist",
+        "experience": "17 years experience overall",
+        "locality": "Pimpri-Chinchwad,",
+        "city": "Pune",
+        "clinic_name": "Shwas Chest Clinic ( Asthma & Allergy Center)",
+        "fee": "₹700",
+        "feedback": "112 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Dipak Giri",
+        "specialization": "Internal Medicine",
+        "experience": "17 years experience overall",
+        "locality": "Wagholi,",
+        "city": "Pune",
+        "clinic_name": "Fortune Multispeciality Hospital",
+        "fee": "₹500",
+        "feedback": "85 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Smita P Das",
+        "specialization": "General Physician",
+        "experience": "18 years experience overall",
+        "locality": "Kondhwa,",
+        "city": "Pune",
+        "clinic_name": "Dr Koshy's Poly Clinic",
+        "fee": "₹600",
+        "feedback": "99 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prafull Warghane",
+        "specialization": "Pulmonologist",
+        "experience": "22 years experience overall",
+        "locality": "Wakad,",
+        "city": "Pune",
+        "clinic_name": "Chest Care Centre",
+        "fee": "₹800",
+        "feedback": "58 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mukesh Mahajan",
+        "specialization": "General Physician",
+        "experience": "18 years experience overall",
+        "locality": "Keshav Nagar,",
+        "city": "Pune",
+        "clinic_name": "Phoenix Speciality Clinic",
+        "fee": "₹500",
+        "feedback": "127 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anand Kalaskar",
+        "specialization": "General Physician",
+        "experience": "25 years experience overall",
+        "locality": "Nigdi-Pradhikaran,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹650",
+        "feedback": "123 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Gopal Jaju",
+        "specialization": "General Physician",
+        "experience": "14 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Om Clinic",
+        "fee": "₹500",
+        "feedback": "110 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Girish Singh",
+        "specialization": "General Physician",
+        "experience": "35 years experience overall",
+        "locality": "Yerwada,",
+        "city": "Pune",
+        "clinic_name": "Raj Clinic",
+        "fee": "₹500",
+        "feedback": "33 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kapil Patwardhan",
+        "specialization": "General Physician",
+        "experience": "20 years experience overall",
+        "locality": "Nagar Road,",
+        "city": "Pune",
+        "clinic_name": "Sahyadri Hospital",
+        "fee": "₹600",
+        "feedback": "63 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kavita Ramnivas",
+        "specialization": "General Practitioner",
+        "experience": "31 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Sahyadri Super Speciality Hospital Hadapsar",
+        "fee": "₹500",
+        "feedback": "14 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rasika Thakare",
+        "specialization": "General Physician",
+        "experience": "10 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Benecare Hospital (formerly Sunshine Women's Clinic & Fertility Center)",
+        "fee": "₹600",
+        "feedback": "29 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ravi Pratap",
+        "specialization": "General Physician",
+        "experience": "17 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Sirius Wellness And Outreach Medical Services Clinic",
+        "fee": "₹700",
+        "feedback": "135 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Piyush Subhash Bhople",
+        "specialization": "General Physician",
+        "experience": "16 years experience overall",
+        "locality": "Dhayari,",
+        "city": "Pune",
+        "clinic_name": "Shree Sadguru Clinic",
+        "fee": "₹300",
+        "feedback": "15 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ashok Bansode",
+        "specialization": "Pulmonologist",
+        "experience": "21 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Pune Health Clinic",
+        "fee": "₹800",
+        "feedback": "9 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Suyash Gandhe",
+        "specialization": "Pulmonologist",
+        "experience": "9 years experience overall",
+        "locality": "Kalyani Nagar,",
+        "city": "Pune",
+        "clinic_name": "Prudent International Health Clinic",
+        "fee": "₹700",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ravindra Singh",
+        "specialization": "",
+        "experience": "23 years experience overall",
+        "locality": "Pimpri-Chinchwad,",
+        "city": "Pune",
+        "clinic_name": "Apolline Wellness",
+        "fee": "₹600",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Baset Hakim",
+        "specialization": "General Physician",
+        "experience": "8 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹650",
+        "feedback": "9 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Pratibha Yogesh Walde",
+        "specialization": "General Physician",
+        "experience": "23 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Manipal Hospital, Kharadi - Pune",
+        "fee": "₹650",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anup Bhoyar",
+        "specialization": "General Physician",
+        "experience": "15 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Olive Health Center",
+        "fee": "₹800",
+        "feedback": "106 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prasad Balte",
+        "specialization": "Pediatrician",
+        "experience": "17 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Benecare Hospital (formerly Sunshine Women's Clinic & Fertility Center)",
+        "fee": "₹500",
+        "feedback": "10 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Shinde Rituparna",
+        "specialization": "Cardiologist",
+        "experience": "27 years experience overall",
+        "locality": "Karve Nagar,",
+        "city": "Pune",
+        "clinic_name": "Aloha Lifestyle Reversal Studio",
+        "fee": "₹1500",
+        "feedback": "6 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sheetal Mahajani",
+        "specialization": "Gastroenterologist",
+        "experience": "34 years experience overall",
+        "locality": "Nagar Road,",
+        "city": "Pune",
+        "clinic_name": "Sahyadri Hospital",
+        "fee": "₹800",
+        "feedback": "8 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kiran Sudhare",
+        "specialization": "General Physician",
+        "experience": "17 years experience overall",
+        "locality": "Nigdi-Pradhikaran,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹500",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vidushi Taneja",
+        "specialization": "General Physician",
+        "experience": "16 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Motherhood Hospital",
+        "fee": "₹750",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Suman Bala",
+        "specialization": "General Physician",
+        "experience": "5 years experience overall",
+        "locality": "Viman Nagar,",
+        "city": "Pune",
+        "clinic_name": "Olive Health Center",
+        "fee": "₹400",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Kishor Sharma",
+        "specialization": "General Physician",
+        "experience": "44 years experience overall",
+        "locality": "Balewadi,",
+        "city": "Pune",
+        "clinic_name": "HealthBay Clinic",
+        "fee": "₹300",
+        "feedback": "39 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Govinda N",
+        "specialization": "General Physician",
+        "experience": "21 years experience overall",
+        "locality": "Sasanenagar,",
+        "city": "Pune",
+        "clinic_name": "Om Dental Clinc",
+        "fee": "₹300",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Monika Mamidwar",
+        "specialization": "General Physician",
+        "experience": "22 years experience overall",
+        "locality": "Pimple Saudagar,",
+        "city": "Pune",
+        "clinic_name": "Panacea Medical Centre",
+        "fee": "₹900",
+        "feedback": "178 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Anuj P Surana",
+        "specialization": "General Physician",
+        "experience": "20 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Surana Clinic",
+        "fee": "₹500",
+        "feedback": "237 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Pankaj Changedia",
+        "specialization": "General Physician",
+        "experience": "26 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Mamata Maternity & Heart , Diabetis Care Center",
+        "fee": "₹600",
+        "feedback": "279 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manoj Naik",
+        "specialization": "General Physician",
+        "experience": "39 years experience overall",
+        "locality": "Deccan Gymkhana,",
+        "city": "Pune",
+        "clinic_name": "Sahyadri Hospital",
+        "fee": "₹500",
+        "feedback": "9 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Nilanjan Banerjee",
+        "specialization": "General Physician",
+        "experience": "28 years experience overall",
+        "locality": "Wanowrie,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹750",
+        "feedback": "4 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Gaurav Chaudhary",
+        "specialization": "Internal Medicine",
+        "experience": "18 years experience overall",
+        "locality": "Balewadi,",
+        "city": "Pune",
+        "clinic_name": "Swara's Medical And Dental Clinic",
+        "fee": "₹500",
+        "feedback": "60 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prashant. A. Mutalik",
+        "specialization": "General Physician",
+        "experience": "28 years experience overall",
+        "locality": "Bhavani Peth,",
+        "city": "Pune",
+        "clinic_name": "Dr. Gandhi's- Dr. Mutalik's Clinic",
+        "fee": "₹200",
+        "feedback": "72 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rahul Chavan",
+        "specialization": "Pulmonologist",
+        "experience": "18 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "SIGMA CLINIC",
+        "fee": "₹800",
+        "feedback": "120 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Laxmikant Kaotekwar",
+        "specialization": "Pulmonologist",
+        "experience": "21 years experience overall",
+        "locality": "Fatima Nagar,",
+        "city": "Pune",
+        "clinic_name": "Meadowlark Healthcare clinic",
+        "fee": "₹1500",
+        "feedback": "35 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Devendra Satpute",
+        "specialization": "Pediatrician",
+        "experience": "14 years experience overall",
+        "locality": "Pimpri-Chinchwad,",
+        "city": "Pune",
+        "clinic_name": "Aditya Birla Memorial Hospital",
+        "fee": "₹1000",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rama Joshirao Paranjape",
+        "specialization": "General Physician",
+        "experience": "12 years experience overall",
+        "locality": "Karve Nagar,",
+        "city": "Pune",
+        "clinic_name": "Dr Rama Joshirao Paranjape's Clinic",
+        "fee": "₹500",
+        "feedback": "11 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rajkumar Gautam Nikalje",
+        "specialization": "Pulmonologist",
+        "experience": "15 years experience overall",
+        "locality": "Nigdi-Pradhikaran,",
+        "city": "Pune",
+        "clinic_name": "Oxycare Superspeciality Hospital",
+        "fee": "₹500",
+        "feedback": "49 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rachna Mogri",
+        "specialization": "General Physician",
+        "experience": "21 years experience overall",
+        "locality": "Hadapsar,",
+        "city": "Pune",
+        "clinic_name": "Divine Care Multispeciality Clinic",
+        "fee": "₹500",
+        "feedback": "11 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sunayana Shinde",
+        "specialization": "General Physician",
+        "experience": "21 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹500",
+        "feedback": "5 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Chinmay Naik",
+        "specialization": "General Practitioner",
+        "experience": "13 years experience overall",
+        "locality": "Sadashiv Peth,",
+        "city": "Pune",
+        "clinic_name": "Pratham Clinic",
+        "fee": "₹700",
+        "feedback": "147 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Mangesh K Chavan",
+        "specialization": "General Physician",
+        "experience": "9 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹400",
+        "feedback": "15 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kalpana Chhajed",
+        "specialization": "General Practitioner",
+        "experience": "27 years experience overall",
+        "locality": "Market Yard,",
+        "city": "Pune",
+        "clinic_name": "Harsh Hospital",
+        "fee": "₹700",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Vivek Shejole",
+        "specialization": "General Physician",
+        "experience": "11 years experience overall",
+        "locality": "Baner,",
+        "city": "Pune",
+        "clinic_name": "Aspiria HealthCare",
+        "fee": "₹500",
+        "feedback": "124 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sanjay Dudhavade",
+        "specialization": "General Physician",
+        "experience": "6 years experience overall",
+        "locality": "Junnar,",
+        "city": "Pune",
+        "clinic_name": "Vasu Clinic",
+        "fee": "₹100",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Palve Amit Hanumanrao",
+        "specialization": "General Physician",
+        "experience": "12 years experience overall",
+        "locality": "Kharadi,",
+        "city": "Pune",
+        "clinic_name": "Apollo Clinic",
+        "fee": "₹600",
+        "feedback": "4 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Madhukar Jadhav",
+        "specialization": "General Physician",
+        "experience": "12 years experience overall",
+        "locality": "Alandi Road,",
+        "city": "Pune",
+        "clinic_name": "Niramay Hospital",
+        "fee": "₹300",
+        "feedback": "13 Patient Stories"
+    }
+]

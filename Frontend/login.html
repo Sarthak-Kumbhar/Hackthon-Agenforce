@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<style >
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #e0f7fa;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .login-container .page-title {
+        font-size: 32px;
+        font-weight: bold;
+        margin-bottom: 40px;
+        color: #007bb5;
+    }
+
+    .login-container {
+        background: white;
+        padding: 50px;
+        width: 100px;
+        height: 100px;
+        border-radius: 15px;
+        box-shadow: 12px 12px 15px 0px #007bb5;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .login-form {
+        border: 1px solid #ccc;
+        box-shadow: 0px 0px 15px 0px #007bb5;
+        border-radius: 10px;
+        padding: 30px;
+        width: 300px;
+        background-color: white;
+    }
+
+    .login-form label {
+        font-family: Arial, sans-serif;
+        color: #007bb5;
+        display: block;
+        margin: 10px 0 5px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+     .login-form input label {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #aaa;
+        border-radius: 5px;
+        box-sizing: border-box;
+    }
+
+    .login-form button{
+            width: 90%;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #007bb5;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    input, button {
+            display: block;
+            margin: 10px auto;
+            padding: 12px;
+            width: 80%;
+            border-radius: 8px;
+            border: 1px solid #007bb5;
+        }
+
+    .google-login {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .google-login img {
+        width: 30px;
+        height: 30px;
+        cursor: pointer;
+    }
+</style>
+<body>
+    <div class="login-container">
+        <h1 class="page-title">Login</h1>
+        <form class="login-form">
+
+            <label for="username">Username</label>
+            <input type="text" id="username" name="username" required>
+
+            <label for="password">Password</label>
+            <input type="password" id="password" name="password" required>
+
+            <button type="submit">Submit</button>
+
+            <div class="google-login">
+                <img src="https://tse1.mm.bing.net/th?id=OIP._LotbG1SgjcwdzpQ4pBu7QAAAA&pid=Api&P=0&h=180" alt="Google login">
+                
+            </div>
+        </form>
+    </div>
+</body>
+</html>

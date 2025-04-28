@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Doctor Search</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 2rem;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      text-align: center;
+    }
+    input, button {
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+    #results {
+      margin-top: 2rem;
+    }
+    .doctor-card {
+      background: #fff;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .label {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Doctor Finder</h1>
+
+  <input type="text" id="searchQuery" placeholder="Search by specialty, name, location..." />
+  <button onclick="searchDoctors()">Search</button>
+
+  <div id="results"></div>
+
+  <script>
+    async function searchDoctors() {
+      const query = document.getElementById('searchQuery').value;
+      const resultsDiv = document.getElementById('results');
+
+        const response = await fetch(`http://127.0.0.1:5000/search?query=${encodeURIComponent(query)}`);
+        const data = await response.json();
+
+        if (data.status === 'success') {
+          resultsDiv.innerHTML = '';
+          data.results.forEach(doctor => {
+            const card = document.createElement('div');
+            card.className = 'doctor-card';
+            card.innerHTML = `
+              <p><span class="label">Name:</span> ${doctor.doctor_name}</p>
+              <p><span class="label">Specialty:</span> ${doctor.specialization}</p>
+              <p><span class="label">Qualifications:</span> ${doctor.experience}</p>
+              <p><span class="label">Location:</span> ${doctor.city}</p>
+            `;
+            resultsDiv.appendChild(card);
+          });
+        } else {
+          resultsDiv.innerHTML = `<p>${data.message}</p>`;
+        }
+    }
+  </script>
+</body>
+</html>

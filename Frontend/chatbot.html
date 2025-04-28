@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>MediLink - Chatbot</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet"/>
+  <style>
+    body {
+      background: linear-gradient(to right, #f0faff, #ffffff);
+      font-family: "Inter", sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      background: linear-gradient(to right, #0575e6, #021b79);
+      padding: 25px;
+      color: white;
+      text-align: center;
+      font-size: 30px;
+      font-weight: bold;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .chat-container {
+      width: 92%;
+      max-width: 720px;
+      background-color: #ffffff;
+      border-radius: 20px;
+      margin: 40px auto;
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+      display: flex;
+      flex-direction: column;
+      height: 520px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .chat-window {
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+      background-color: #f6fbff;
+    }
+
+    .message {
+      margin: 10px 0;
+      padding: 12px 18px;
+      border-radius: 20px;
+      max-width: 75%;
+      font-size: 15px;
+      line-height: 1.5;
+      word-wrap: break-word;
+      animation: fadeIn 0.3s ease;
+    }
+
+    .user {
+      align-self: flex-end;
+      background-color: #d0f0fd;
+      color: #06519c;
+    }
+
+    .bot {
+      align-self: flex-start;
+      background-color: #c5e1f8;
+    }
+
+    .chat-input {
+      display: flex;
+      border-top: 1px solid #ccc;
+      background-color: #eaf5fb;
+    }
+
+    .chat-input input {
+      flex: 1;
+      padding: 15px;
+      border: none;
+      border-radius: 0 0 0 20px;
+      font-size: 15px;
+      outline: none;
+      background-color: #fefefe;
+    }
+
+    .chat-input button {
+      background-color: #1197df;
+      color: white;
+      border: none;
+      padding: 15px 25px;
+      font-size: 15px;
+      font-weight: bold;
+      border-radius: 0 0 20px 0;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .chat-input button:hover {
+      background-color: #0b78bb;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Scrollbar Styling */
+    .chat-window::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .chat-window::-webkit-scrollbar-thumb {
+      background: #cce7ff;
+      border-radius: 3px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    MediLink Smart Chatbot 
+  </header>
+
+  <div class="chat-container">
+    <div class="chat-window" id="chatWindow">
+      <div class="message bot">Hello! I'm MediBot. Ask me anything about doctors, medicines, or home remedies.</div>
+    </div>
+    <div class="chat-input">
+      <input type="text" id="userInput" placeholder="Type a message..." onkeydown="handleKey(event)" />
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+
+  <script>
+    function sendMessage() {
+      const input = document.getElementById("userInput");
+      const chatWindow = document.getElementById("chatWindow");
+      const userMsg = input.value.trim();
+      if (!userMsg) return;
+
+      const userDiv = document.createElement("div");
+      userDiv.className = "message user";
+      userDiv.textContent = userMsg;
+      chatWindow.appendChild(userDiv);
+
+      const botDiv = document.createElement("div");
+      botDiv.className = "message bot";
+      botDiv.textContent = "Typing...";
+      chatWindow.appendChild(botDiv);
+
+      chatWindow.scrollTop = chatWindow.scrollHeight;
+
+      setTimeout(() => {
+        botDiv.textContent = getBotResponse(userMsg);
+        chatWindow.scrollTop = chatWindow.scrollHeight;
+      }, 500);
+
+      input.value = "";
+    }
+
+    function handleKey(event) {
+      if (event.key === "Enter") {
+        sendMessage();
+      }
+    }
+
+    function getBotResponse(msg) {
+      msg = msg.toLowerCase();
+      if (msg.includes("appointment")) {
+        return "You can book an appointment using the search section above.";
+      } else if (msg.includes("medicine")) {
+        return "We help you find medicines easily and suggest remedies.";
+      } else if (msg.includes("test") || msg.includes("lab")) {
+        return "Lab test booking is currently unavailable.";
+      } else if (msg.includes("doctor")) {
+        return "Search for top-rated doctors by city and specialization.";
+      } else if (msg.includes("remedy") || msg.includes("home remedy")) {
+        return "For minor issues, home remedies can be suggested. What's bothering you?";
+      } else if (msg.includes("symptom")) {
+        return "Please describe your symptoms and I'll suggest possible causes.";
+      } else {
+        return "I'm here to help! Ask anything about MediLink services.";
+      }
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MediLink</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="main style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="logo">MediLink</div>
+      <div class="menu-icon" onclick="toggleMenu()">☰</div>
+      <nav id="navLinks">
+        <a href="#">Home</a>
+        <a href="#">Consult</a>
+        <a href="#">Doctors</a>
+        <a href="#">Pharmacy</a>
+        <a href="chatbot.html">Chatbot</a>
+        <div class="auth-btns" id="authBtns">
+          <button onclick="window.location.href='options.html'">Login</button>
+          <button onclick="window.location.href='options.html'">Signup</button>
+        </div>
+        <div
+          class="profile"
+          id="profileSection"
+          style="display: none; position: relative"
+        >
+          <span onclick="toggleDropdown()"
+            >👤 <span id="userName">User</span></span
+          >
+          <div class="dropdown" id="profileDropdown">
+            <a href="#">Profile</a>
+            <a href="#" onclick="logout()">Logout</a>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="hero-text">
+        <h1>Find and Consult Top Doctors</h1>
+        <p>
+          Search doctors by city and specialization. Book appointments and
+          consult from the comfort of your home.
+        </p>
+
+        <div class="hero-form">
+          <select id="city">
+            <option value="">Select City</option>
+            <option value="delhi">Delhi</option>
+            <option value="mumbai">Mumbai</option>
+            <option value="bangalore">Bangalore</option>
+            <option value="chennai">Chennai</option>
+            <option value="Kolkata">Kolkata</option>
+            <option value="Hyderabad">Hyderabad</option>
+            <option value="Ahmedabad">Ahmedabad</option>
+            <option value="Pune">Pune</option>
+            <option value="Jaipur">Jaipur</option>
+            <option value="Surat">Surat</option>
+          </select>
+          <select id="specialization">
+            <option value="">Select Specialization</option>
+            <option value="cardiologist">Cardiologist</option>
+            <option value="dermatologist">Dermatologist</option>
+            <option value="dentist">Dentist</option>
+            <option value="General Practitioner">General Practitioner</option>
+            <option value="Pediatrician">Pediatrician</option>
+            <option value="Orthopedic">Orthopedic</option>
+            <option value="Neurologist">Neurologist</option>
+            <option value="Surgeon">Surgeon</option>
+            <option value="Psychiatrist">Psychiatrist</option>
+            <option value="Gynecologist">Gynecologist</option>
+          </select>
+          <button onclick="searchDoctor()">Search</button>
+        </div>
+      </div>
+      <div class="hero-img">
+        <img
+          src="https://medilink.com.uy/wp-content/uploads/2022/06/logos-rgb-png_3-1536x604.png"
+          alt="Healthcare illustration"
+          height="350px"
+          width="400px"
+        />
+      </div>
+    </section>
+
+    <section class="services">
+      <h2>Our Services</h2>
+      <div class="service-cards"></div>
+      <div
+        class="card"
+        onclick="window.open('chatbot.html', '_blank')"
+        style="cursor: pointer"
+      >
+        <h3>Ask MediBot</h3>
+        <p>
+          Describe your symptoms or queries and get instant help from our
+          chatbot.
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Online Consultation</h3>
+        <p>Chat with doctors anytime, anywhere.</p>
+      </div>
+
+      <div class="card">
+        <h3>Find Specialists</h3>
+        <p>Search for top-rated doctors in your area.</p>
+      </div>
+
+      <div class="card">
+        <h3>Appointment Reminders</h3>
+        <p>
+          Get SMS or email notifications before your scheduled appointments.
+        </p>
+      </div>
+    </section>
+
+    <footer>&copy; 2025 MediLink. All Rights Reserved.</footer>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const user = localStorage.getItem("medilink_user");
+        if (user) {
+          document.getElementById("authBtns").style.display = "none";
+          document.getElementById("profileSection").style.display = "flex";
+          document.getElementById("userName").innerText = user;
+        }
+      });
+
+      function toggleDropdown() {
+        const dropdown = document.getElementById("profileDropdown");
+        dropdown.style.display =
+          dropdown.style.display === "block" ? "none" : "block";
+      }
+
+      function logout() {
+        localStorage.removeItem("medilink_user");
+        location.reload();
+      }
+
+      function scrollToSection(id) {
+        const section = document.getElementById(id);
+        section.scrollIntoView({ behavior: "smooth" });
+      }
+
+      function toggleMenu() {
+        const nav = document.getElementById("navLinks");
+        nav.classList.toggle("active");
+      }
+
+      function searchDoctor() {
+        const city = document.getElementById("city").value;
+        const specialization = document.getElementById("specialization").value;
+        if (city && specialization) {
+          alert(`Searching for ${specialization}s in ${city}...`);
+        } else {
+          alert("Please select both city and specialization.");
+        }
+      }
+
+      function sendMessage() {
+        const input = document.getElementById("userInput");
+        const chatWindow = document.getElementById("chatWindow");
+        const userMsg = input.value.trim();
+        if (!userMsg) return;
+
+        const userDiv = document.createElement("div");
+        userDiv.className = "message user";
+        userDiv.textContent = userMsg;
+        chatWindow.appendChild(userDiv);
+
+        const botDiv = document.createElement("div");
+        botDiv.className = "message bot";
+        botDiv.textContent = "Typing...";
+        chatWindow.appendChild(botDiv);
+
+        chatWindow.scrollTop = chatWindow.scrollHeight;
+
+        setTimeout(() => {
+          botDiv.textContent = getBotResponse(userMsg);
+          chatWindow.scrollTop = chatWindow.scrollHeight;
+        }, 500);
+
+        input.value = "";
+      }
+
+      function handleKey(event) {
+        if (event.key === "Enter") {
+          sendMessage();
+        }
+      }
+
+      function getBotResponse(msg) {
+        msg = msg.toLowerCase();
+        if (msg.includes("appointment")) {
+          return "You can book an appointment using the search section above.";
+        } else if (msg.includes("medicine")) {
+          return "We help you find medicines easily and suggest remedies.";
+        } else if (msg.includes("test") || msg.includes("lab")) {
+          return "Lab test booking is currently unavailable.";
+        } else if (msg.includes("doctor")) {
+          return "Search for top-rated doctors by city and specialization.";
+        } else if (msg.includes("remedy") || msg.includes("home remedy")) {
+          return "For minor issues, home remedies can be suggested. What's bothering you?";
+        } else if (msg.includes("symptom")) {
+          return "Please describe your symptoms and I'll suggest possible causes.";
+        } else {
+          return "I'm here to help! Ask anything about MediLink services.";
+        }
+      }
+    </script>
+  </body>
+</html>

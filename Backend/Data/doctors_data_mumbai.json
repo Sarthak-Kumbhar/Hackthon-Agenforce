@@ -1,0 +1,672 @@
+[
+    {
+        "doctor_name": "Dr. Reshma Phulwar",
+        "specialization": "Dentist",
+        "experience": "29 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "32 Pearls Dental Clinic",
+        "fee": "₹500",
+        "feedback": "678 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Parag M. Khatri",
+        "specialization": "Dentist",
+        "experience": "32 years experience overall",
+        "locality": "Andheri East,",
+        "city": "Mumbai",
+        "clinic_name": "Dental Square",
+        "fee": "₹500",
+        "feedback": "1282 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kshama P Vibhakar",
+        "specialization": "Dermatologist",
+        "experience": "22 years experience overall",
+        "locality": "Andheri East,",
+        "city": "Mumbai",
+        "clinic_name": "Skin 'N' Sculpt",
+        "fee": "₹1500",
+        "feedback": "321 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manish Kachhara",
+        "specialization": "Dentist",
+        "experience": "23 years experience overall",
+        "locality": "Ghatkopar East,",
+        "city": "Mumbai",
+        "clinic_name": "Dental Solutions",
+        "fee": "₹500",
+        "feedback": "394 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sanket Mehta",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Matunga,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Studio Dental Clinic",
+        "fee": "₹500",
+        "feedback": "948 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manoj Bodhwani",
+        "specialization": "Dentist",
+        "experience": "19 years experience overall",
+        "locality": "Khar West,",
+        "city": "Mumbai",
+        "clinic_name": "Tooth Avenue",
+        "fee": "₹500",
+        "feedback": "294 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manish S. Sonawane",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Lokhandwala,",
+        "city": "Mumbai",
+        "clinic_name": "Millennium Smile Dental Clinic",
+        "fee": "₹500",
+        "feedback": "205 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kenal D.Shah",
+        "specialization": "Dentist",
+        "experience": "17 years experience overall",
+        "locality": "Mulund West,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Enhancer- A Complete Dental Solution",
+        "fee": "₹300",
+        "feedback": "72 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ruupali Wanckhede",
+        "specialization": "Dentist",
+        "experience": "27 years experience overall",
+        "locality": "Andheri East,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Edge Oral & Dental Health Care Clinic",
+        "fee": "₹500",
+        "feedback": "250 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manisha Mehta",
+        "specialization": "Dentist",
+        "experience": "19 years experience overall",
+        "locality": "Worli,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Studio Dental Clinic",
+        "fee": "₹500",
+        "feedback": "1058 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Reshma Phulwar",
+        "specialization": "Dentist",
+        "experience": "29 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "32 Pearls Dental Clinic",
+        "fee": "₹500",
+        "feedback": "678 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Parag M. Khatri",
+        "specialization": "Dentist",
+        "experience": "32 years experience overall",
+        "locality": "Andheri East,",
+        "city": "Mumbai",
+        "clinic_name": "Dental Square",
+        "fee": "₹500",
+        "feedback": "1282 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kshama P Vibhakar",
+        "specialization": "Dermatologist",
+        "experience": "22 years experience overall",
+        "locality": "Andheri East,",
+        "city": "Mumbai",
+        "clinic_name": "Skin 'N' Sculpt",
+        "fee": "₹1500",
+        "feedback": "321 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manish Kachhara",
+        "specialization": "Dentist",
+        "experience": "23 years experience overall",
+        "locality": "Ghatkopar East,",
+        "city": "Mumbai",
+        "clinic_name": "Dental Solutions",
+        "fee": "₹500",
+        "feedback": "394 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sanket Mehta",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Matunga,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Studio Dental Clinic",
+        "fee": "₹500",
+        "feedback": "948 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manoj Bodhwani",
+        "specialization": "Dentist",
+        "experience": "19 years experience overall",
+        "locality": "Khar West,",
+        "city": "Mumbai",
+        "clinic_name": "Tooth Avenue",
+        "fee": "₹500",
+        "feedback": "294 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manish S. Sonawane",
+        "specialization": "Dentist",
+        "experience": "20 years experience overall",
+        "locality": "Lokhandwala,",
+        "city": "Mumbai",
+        "clinic_name": "Millennium Smile Dental Clinic",
+        "fee": "₹500",
+        "feedback": "205 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kenal D.Shah",
+        "specialization": "Dentist",
+        "experience": "17 years experience overall",
+        "locality": "Mulund West,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Enhancer- A Complete Dental Solution",
+        "fee": "₹300",
+        "feedback": "72 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ruupali Wanckhede",
+        "specialization": "Dentist",
+        "experience": "27 years experience overall",
+        "locality": "Andheri East,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Edge Oral & Dental Health Care Clinic",
+        "fee": "₹500",
+        "feedback": "250 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manisha Mehta",
+        "specialization": "Dentist",
+        "experience": "19 years experience overall",
+        "locality": "Worli,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Studio Dental Clinic",
+        "fee": "₹500",
+        "feedback": "1058 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Varoon Jain",
+        "specialization": "Dentist",
+        "experience": "18 years experience overall",
+        "locality": "Goregaon West,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Sutra Multi Speciality Dental Clinic",
+        "fee": "₹500",
+        "feedback": "116 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Suraj Shetty",
+        "specialization": "Dermatologist",
+        "experience": "16 years experience overall",
+        "locality": "Andheri West,",
+        "city": "Mumbai",
+        "clinic_name": "Tvaksh Advanced Skin And Hair Clinic",
+        "fee": "₹1200",
+        "feedback": "171 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Alka Shah Thakker",
+        "specialization": "Dentist",
+        "experience": "17 years experience overall",
+        "locality": "Mulund West,",
+        "city": "Mumbai",
+        "clinic_name": "Smile Enhancer- A Complete Dental Solution",
+        "fee": "₹300",
+        "feedback": "50 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ameya Manish Sonawane",
+        "specialization": "Dentist",
+        "experience": "15 years experience overall",
+        "locality": "Lokhandwala,",
+        "city": "Mumbai",
+        "clinic_name": "Millennium Smile Dental Clinic",
+        "fee": "₹500",
+        "feedback": "3 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Reshma Shankar Chawla",
+        "specialization": "Dentist",
+        "experience": "15 years experience overall",
+        "locality": "Bandra West,",
+        "city": "Mumbai",
+        "clinic_name": "Blanco Aesthetics",
+        "fee": "₹1000",
+        "feedback": "71 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vaidehi Saigaonkar Newaskar",
+        "specialization": "Dermatologist",
+        "experience": "15 years experience overall",
+        "locality": "Bandra West,",
+        "city": "Mumbai",
+        "clinic_name": "Krasa Skin and Hair Clinic",
+        "fee": "₹1500",
+        "feedback": "170 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sonia Tekchandani",
+        "specialization": "Dermatologist",
+        "experience": "39 years experience overall",
+        "locality": "Andheri West,",
+        "city": "Mumbai",
+        "clinic_name": "Tender Skin International",
+        "fee": "₹1500",
+        "feedback": "504 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Bhavin Shah",
+        "specialization": "Dentist",
+        "experience": "16 years experience overall",
+        "locality": "Goregaon East,",
+        "city": "Mumbai",
+        "clinic_name": "American Dental Practices",
+        "fee": "₹500",
+        "feedback": "393 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Bhavik Saglani",
+        "specialization": "General Physician",
+        "experience": "16 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "61 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Tushar Rane",
+        "specialization": "General Physician",
+        "experience": "18 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1200",
+        "feedback": "20 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Jinendra K Jain",
+        "specialization": "General Physician",
+        "experience": "23 years experience overall",
+        "locality": "Mira Road,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals (formerly known as Umrao Hospital)",
+        "fee": "₹1000",
+        "feedback": "18 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Amit Shobhavat",
+        "specialization": "Internal Medicine",
+        "experience": "18 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1200",
+        "feedback": "17 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Lakin Vira",
+        "specialization": "General Surgeon",
+        "experience": "16 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "24 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Manjula Bagdi",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "47 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1200",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sanjay Borude",
+        "specialization": "Bariatric Surgeon",
+        "experience": "41 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹3000",
+        "feedback": "102 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Laxman Salve",
+        "specialization": "General Surgeon",
+        "experience": "24 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2000",
+        "feedback": "176 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kunal Makhija",
+        "specialization": "Orthopedist",
+        "experience": "18 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "131 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Biswajeet Naidu",
+        "specialization": "Orthopedist",
+        "experience": "35 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2000",
+        "feedback": "157 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kailash Kothari",
+        "specialization": "Spine And Pain Specialist",
+        "experience": "31 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2000",
+        "feedback": "13 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Niraj Mahajan",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "26 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹800",
+        "feedback": "53 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Aditi Agrawal",
+        "specialization": "General Surgeon",
+        "experience": "20 years experience overall",
+        "locality": "Mira Road,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals (formerly known as Umrao Hospital)",
+        "fee": "₹1000",
+        "feedback": "142 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Imran Shaikh",
+        "specialization": "GastroIntestinal Surgeon",
+        "experience": "20 years experience overall",
+        "locality": "Mira Road,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals (formerly known as Umrao Hospital)",
+        "fee": "₹1050",
+        "feedback": "22 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prakash L Tejwani",
+        "specialization": "Urologist",
+        "experience": "21 years experience overall",
+        "locality": "Mira Road,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals (formerly known as Umrao Hospital)",
+        "fee": "₹1200",
+        "feedback": "416 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Sandip Bipte",
+        "specialization": "General Surgeon",
+        "experience": "25 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2000",
+        "feedback": "11 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Hitesh Kubadia",
+        "specialization": "Orthopedist",
+        "experience": "23 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "592 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Hemant Bhandari",
+        "specialization": "Orthopedist",
+        "experience": "40 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2500",
+        "feedback": "58 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Laila Rajesh Dave",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "39 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "28 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ranjan Burnwal",
+        "specialization": "Orthopedist",
+        "experience": "16 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "5 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Dilip Rajpal",
+        "specialization": "Laparoscopic Surgeon",
+        "experience": "30 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "160 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rajiv Prakash Manek",
+        "specialization": "Laparoscopic Surgeon",
+        "experience": "15 years experience overall",
+        "locality": "Mira Road,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals (formerly known as Umrao Hospital)",
+        "fee": "₹1000",
+        "feedback": "17 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Keyur A Sheth",
+        "specialization": "Gastroenterologist",
+        "experience": "23 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2000",
+        "feedback": "92 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vaishali Chaudhari",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "17 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1200",
+        "feedback": "34 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Adip K shetty",
+        "specialization": "Ear-Nose-Throat (ENT) Specialist",
+        "experience": "17 years experience overall",
+        "locality": "Bandra West,",
+        "city": "Mumbai",
+        "clinic_name": "Apricity ENT Care Center",
+        "fee": "₹1500",
+        "feedback": "357 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Om Parshuram Patil",
+        "specialization": "Orthopedist",
+        "experience": "17 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "18 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ila Tyagi",
+        "specialization": "Reproductive Endocrinologist (Infertility)",
+        "experience": "33 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1200",
+        "feedback": "25 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Ramen Goel",
+        "specialization": "Bariatric Surgeon",
+        "experience": "39 years experience overall",
+        "locality": "Mumbai Central,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals",
+        "fee": "₹1500",
+        "feedback": "30 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Prasad Chaudhari",
+        "specialization": "Orthopedist",
+        "experience": "27 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Surana Sethia Hospital and Research Center",
+        "fee": "₹1000",
+        "feedback": "23 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Rajeev Naik",
+        "specialization": "General Surgeon",
+        "experience": "20 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1200",
+        "feedback": "19 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Kaustubh Ravindra Durve",
+        "specialization": "Orthopedist",
+        "experience": "25 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "8 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. D B Bhosale",
+        "specialization": "General Surgeon",
+        "experience": "40 years experience overall",
+        "locality": "Chembur,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Jayesh M Ranawat",
+        "specialization": "Ear-Nose-Throat (ENT) Specialist",
+        "experience": "28 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2000",
+        "feedback": "214 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vinod Rambal",
+        "specialization": "Neurosurgeon",
+        "experience": "43 years experience overall",
+        "locality": "Mira Road,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals (formerly known as Umrao Hospital)",
+        "fee": "₹1000",
+        "feedback": "20 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Badshah Khan",
+        "specialization": "Pediatrician",
+        "experience": "23 years experience overall",
+        "locality": "Mira Road,",
+        "city": "Mumbai",
+        "clinic_name": "Wockhardt Hospitals (formerly known as Umrao Hospital)",
+        "fee": "₹1000",
+        "feedback": "29 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Vidya Patil",
+        "specialization": "Gynecologist/Obstetrician",
+        "experience": "29 years experience overall",
+        "locality": "Kandivali West,",
+        "city": "Mumbai",
+        "clinic_name": "Arya Women's Hospital",
+        "fee": "₹1500",
+        "feedback": "130 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Fahad Afzal S",
+        "specialization": "Oncologist",
+        "experience": "16 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹2000",
+        "feedback": "1 Patient Story"
+    },
+    {
+        "doctor_name": "Dr. Safiuddin",
+        "specialization": "Orthopedist",
+        "experience": "19 years experience overall",
+        "locality": "Tardeo,",
+        "city": "Mumbai",
+        "clinic_name": "Apollo Spectra Hospitals",
+        "fee": "₹1500",
+        "feedback": "2 Patient Stories"
+    },
+    {
+        "doctor_name": "Dr. Nita A Shah",
+        "specialization": "Ophthalmologist",
+        "experience": "44 years experience overall",
+        "locality": "Chembur East,",
+        "city": "Mumbai",
+        "clinic_name": "Aayush Eye Clinic - A Unit of Dr Agarwals Eye Hospital",
+        "fee": "₹1200",
+        "feedback": "107 Patient Stories"
+    }
+]
